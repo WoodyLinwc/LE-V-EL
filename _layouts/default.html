@@ -1,34 +1,9 @@
 <!DOCTYPE html>
-<!-- 
-
-
-           ******       ******
-         **********   **********
-       ************* *************
-      *****************************
-      *****************************
-      *****************************
-       ***************************
-         ***********************
-           *******************
-             ***************
-               ***********
-                 *******
-                   ***
-                    *
-
- Any questions? Let us know: team at mpsych.org!
-
- -->
 <html>
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}MPSYCH.org</title>
 
     {% include meta.html %}
-
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
 
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
@@ -49,10 +24,10 @@
           
 
           <nav>
-            <a href="{{ site.baseurl }}/people"{% if page.url == "/people" %}class="active"{% endif %}>PEOPLE</a>
-            <a href="{{ site.baseurl }}/research"{% if page.url == "/research" %}class="active"{% endif %}>RESEARCH</a>
-            <a href="{{ site.baseurl }}/teaching"{% if page.url == "/teaching" %}class="active"{% endif %}>TEACHING</a>
-            <a href="{{ site.baseurl }}/contact"{% if page.url == "/contact" %}class="active"{% endif %}>CONTACT</a>
+            <a href="{{ site.baseurl }}/research"{% if page.url == "/research" %}class="active"{% endif %}>Datasets</a>
+            <a href="{{ site.baseurl }}/teaching"{% if page.url == "/teaching" %}class="active"{% endif %}>Submit</a>
+            <a href="{{ site.baseurl }}/research"{% if page.url == "/research" %}class="active"{% endif %}>Links</a>
+            <!-- <a href="{{ site.baseurl }}/contact"{% if page.url == "/contact" %}class="active"{% endif %}>CONTACT</a> -->
           </nav>
         </header>
       </div>
