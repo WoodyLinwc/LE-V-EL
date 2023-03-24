@@ -14,8 +14,8 @@ baseurl:
 
 excerpt_separator: "<!-- more -->"
 
-description: Research in Machine Psychology - Computer Science at UMass Boston
-name: Machine Psychology at UMass Boston
+description: The LE-V-EL platform provides standardized benchmark datasets for computational visualization understanding or Chart Question Answering. You can participate by submitting the results of your algorithms.
+title: LE-V-EL
 
 #
 # !! You don't need to change any of the configuration flags below !!
