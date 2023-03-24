@@ -10,24 +10,48 @@ permalink: /
 </div>
 -->
 
-<span class="teaser" style="left:20%;position:relative">We study <span class="bluetext">natural</span> and</span>
-<span class="teaser" style="position: relative; float:left; left:30%;margin-top:-20px;"><span class="bluetext">artificial neural networks</span>.</span>
+<!-- <span class="teaser" style="left:20%;position:relative">We study <span class="bluetext">natural</span> and</span>
+<span class="teaser" style="position: relative; float:left; left:30%;margin-top:-20px;"><span class="bluetext">artificial neural networks</span>.</span> -->
 
 <br><br>
 <p align="justify" style="font-size:24px">
-Machine learning methods are inspired by neuroscientific discoveries&mdash;but current methods are fragile, do not generalize well, and require massive amounts of data. We use <span class="bluetext">visual computing methods</span> to better understand the similarities and differences between <span class="bluetext">human and machine intelligence</span>.
+The LE-V-EL platform provides standardized <span class="bluetext">benchmark datasets</span> for computational visualization understanding or Chart Question Answering. You can participate by <span class="bluetext">submitting</span> the results of your algorithms.
 </p>
+<br><br>
 
-<br>
-<div class="twocolumn">
-<h2 style='text-align:center'><a href="{{ site.baseurl }}/research" class="cleanlink">RECENT PAPERS</a></h2>
-<div id="bibtex_display" bibtexkeys="goyal2022realtime|burkhardt2022ntools|paulick2022promoting|singh2022how|baidak2021cellprofiler"></div>
-</div>
 
-<div class="twocolumn" style="overflow:hidden;height:500px;border-left:solid thin lightgray;">
-<h2 style='text-align:center'><a href="https://twitter.com/mpsychUMB" target="_blank" class="cleanlink">NEWS</a></h2>
-<a class="twitter-timeline" data-width="390" data-height="500" data-theme="light" data-link-color="#29ABE2" data-show-replies="false" data-show-retweets="false" data-tweet-limit="3" data-dnt="true" data-cards="hidden" data-chrome="nofooter noheader noscrollbar noborders" href="https://twitter.com/mpsychUMB?ref_src=twsrc%5Etfw"></a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+<!-- Leaderboard -->
+<head>
+    <!-- <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leaderboard</title> -->
+    <!-- <link rel="stylesheet" href="leaderboard/styles.css"> -->
+</head>
+<body>
+    <!-- <header>
+        <h1>Leaderboard</h1>
+    </header>
+    <main>
+        <section>
+            <input type="file" id="jsonFileInput" accept=".json">
+            <button id="uploadBtn" >Upload JSON</button>
+        </section>
+        <section>
+            <table id="leaderboardTable">
+                <thead>
+                    <tr>
+                        <th>Rank</th>
+                        <th>Name</th>
+                        <th>Score</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+        </section>
+    </main>
+    <script src="leaderboard/scripts.js"></script> -->
+</body>
+<!-- Leaderboard -->
 
 <div class="bibtex_template">
   <div class="researchteaser" style="height:86px;display:flex;align-items:center;">
@@ -46,6 +70,6 @@ Machine learning methods are inspired by neuroscientific discoveries&mdash;but c
 <script type='text/javascript' src='/js/moment.js'></script>
 <script type='text/javascript' src='/js/bibtex.js'></script>
 
-<bibtex src='/papers/pub.bib'></bibtex>
+<!-- <bibtex src='/papers/pub.bib'></bibtex> -->
 
 
