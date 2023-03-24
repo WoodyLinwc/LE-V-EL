@@ -3,12 +3,12 @@ layout: page
 permalink: /research
 ---
 
-<span class="teaser" style="left:20%;width:600px;position:relative">Our research <span class="bluetext">targets</span> the gap</span>
-<span class="teaser" style="position: relative; float:left; left:10%;margin-top:-20px;">between the <span class="bluetext">brain</span> and <span class="bluetext">AI</span>.</span>
+<!-- <span class="teaser" style="left:20%;width:600px;position:relative">Our research <span class="bluetext">targets</span> the gap</span>
+<span class="teaser" style="position: relative; float:left; left:10%;margin-top:-20px;">between the <span class="bluetext">brain</span> and <span class="bluetext">AI</span>.</span> -->
 
 <br><br>
 <p align="justify" style="font-size:24px">
-With advances in <span class="bluetext">computer science</span>, we target the grand challenge of reducing the gap between natural and artificial intelligence: First, with investigations how bottom-up visual computing methods can support <span class="bluetext">brain connectivity</span> analysis, and second, exploring how top-down studies of <span class="bluetext">machine perception</span> can increase our understanding of computational models across domains.
+The LE-V-EL platform provides standardized <span class="bluetext">benchmark datasets</span> for computational visualization understanding or Chart Question Answering. You can participate by <span class="bluetext">submitting</span> the results of your algorithms.
 </p>
 <br><br>
 
